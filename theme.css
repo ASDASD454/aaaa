@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/SoftX/SoftX.css');
 @import url('https://discordstyles.github.io/SoftX/RadialGlow.css');
 @import url('https://discordstyles.github.io/SoftX/VerticalUserArea.css');
@@ -12,11 +14,11 @@
   --accent: 0,150,136; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --glow-intensity: 1.2; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
   --font: Ubuntu; /* Custom font | Default: 'Inter' */
-  --channels-width: 249px; /* Width of the channels list. | Default: 300px */
-  --guilds-width: 99px; /* Width of the server list. | Default: 105px */
-  --members-width: 228px; /* Width of the members list. | Default: 280px */
-  --server-size: 36px; /* Size of the servers inside the server list. | Default: 50px */
-  --chat-avatar-size: 21px; /* Size of the chat avatars. | Default: 32px */
+  --channels-width: 300px; /* Width of the channels list. | Default: 300px */
+  --guilds-width: 105px; /* Width of the server list. | Default: 105px */
+  --members-width: 280px; /* Width of the members list. | Default: 280px */
+  --server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
+  --chat-avatar-size: 32px; /* Size of the chat avatars. | Default: 32px */
   --rs-small-spacing: 3px; /* Gap between avatar and status for members list/dms | MUST end in px */
   --rs-medium-spacing: 2px; /* Gap between avatar and status for User popout | MUST end in px */
   --rs-large-spacing: 2px; /* Gap between avatar and status for User profiles | MUST end in px */
